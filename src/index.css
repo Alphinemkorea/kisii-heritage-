@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    background-color: #FDFBF7;
+    color: #1A1A1A;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  h1, h2, h3, h4, .font-serif {
+    font-family: 'Playfair Display', Georgia, serif;
+  }
+}
+
+/* Artistic Flair custom utilities */
+.hairline-border {
+  border-color: rgba(26, 26, 26, 0.1);
+}
+
+.hairline-divider {
+  background-color: rgba(26, 26, 26, 0.1);
+  height: 1px;
+}

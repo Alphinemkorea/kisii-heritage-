@@ -1,0 +1,6 @@
+{
+  "name": "Kisii Heritage",
+  "description": "Authentic African Art, Tabaka Soapstone Carvings, Cultural Marketplace & Intelligent Life, Goals & Craft Planning System",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
